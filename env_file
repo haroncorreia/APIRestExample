@@ -1,0 +1,11 @@
+module.exports = { 
+
+    authSecret: "",
+
+    connection: {
+        database: "",
+        user:     "",
+        password: ""
+    },
+
+}
